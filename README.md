@@ -1,3 +1,7 @@
-# Demo
+Hello!
+I'm shashanka rao.
 
-some description!
+this is a learning repository to update daily learnings :)
+
+thank you!!!
+
